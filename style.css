@@ -1,0 +1,176 @@
+*,html,body{
+    margin:0;
+    padding:0;
+}
+
+
+/* css_register */
+.container-fluid2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./coldplay-concert.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    justify-content: center;
+    align-items: center ;
+}
+
+.wrapper1{
+    background-image: linear-gradient(to right, rgba(67, 68, 96, .5) , rgba(0, 0, 0, 2)); /* Fallback color, opacity */
+    color: rgb(40, 40, 40);
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 500px;
+    height: 600px;
+    padding-top: 2.5%;
+    text-align: center;
+    box-shadow: 5px 5px 500px rgba(13, 0, 255, 0.5);
+    
+}
+h1{
+    color: azure;
+    text-shadow: 2px 1px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-edit{
+    border-radius: 5px;
+    margin-left: 100px;
+    width: 300px;
+
+}
+.control-edit{
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 1.5px 1.5px 1.5px rgba(0,0,0,.5);
+}
+.control-edit:hover{
+    background-color: rgb(225, 227, 255);
+    transition: .3s;
+    box-shadow: .5px .5px .5px rgba(0,0,0,.5);
+}
+
+
+
+
+
+/* css_loginpage */
+.container-fluid2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./coldplay-concert.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    justify-content: center;
+    align-items: center ;
+}
+.wrapper{
+    background-image: linear-gradient(to right, rgba(67, 68, 96, .5) , rgba(0, 0, 0, 2)); /* Fallback color, opacity */
+    color: rgb(40, 40, 40);
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 500px;
+    height: 475px;
+    padding-top: 3%;
+    text-align: center;
+    box-shadow: 5px 5px 500px rgba(13, 0, 255, 0.5);
+   
+}
+h1{
+    color: azure;
+    text-shadow: 2px 1px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-floating{
+    border-radius: 5px;
+    margin-left: 100px;
+    width: 300px;
+
+}
+.form-control{
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 1.5px 1.5px 1.5px rgba(0,0,0,.5);
+}
+.form-control:hover{
+    background-color: rgb(225, 227, 255);
+    transition: .3s;
+    box-shadow: .5px .5px .5px rgba(0,0,0,.5);
+}
+
+
+
+
+
+
+
+
+
+/* css_form_tiket */
+.container-fluid_tiket{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100vh;
+}
+.carousel-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px black;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.tiket{
+    display: flex;
+    justify-content:center ;
+}
+.card-title{
+    margin-bottom: 5px;
+    color: white;
+}
+.card{
+    margin: 20px;
+    text-align: center;
+}
+.click{
+    background-color: rgb(15, 27, 100);
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+
+
+
+
+
+
+
+/* css-bukti_tiket */
+.done{
+    padding: 5px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: .5px .5px .5px .5px rgba(0,0,0,.5);
+}
+.done:hover{
+    padding: 6px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.5);
+
+
+}
