@@ -1,6 +1,6 @@
 THIS IS A WEBSITE FOR ORDER CONCERT TIKET ONLINE
 
-Convenience at Your Fingertips: Order Concert Tickets Online
+ Order Concert Tickets Online / Ticketic.com
 
 Gone are the days of standing in long queues or worrying about ticket availability for your favorite concerts. Ordering concert tickets online has revolutionized the way we secure our spots at live events. With just a few clicks, you can simplify your concert experience and ensure you don't miss out on the hottest shows.
 
